@@ -1,0 +1,22 @@
+table{
+    text-align: center;
+    font-family: impact;
+    font-size: medium;
+    border: 3px ;
+    border-collapse: collapse;
+}
+td,th{
+    border: 3px;
+    border-style: solid;
+    padding: 5px;
+}
+thead{
+    font-family: gill sans;
+    font-size: medium;
+}
+h1{
+    font-size: medium;
+    font-family: cambria;
+    font-weight: 200;
+    text-align: justify;
+}
